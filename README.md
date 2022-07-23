@@ -15,3 +15,8 @@ Link encender led
 
 https://www.luisllamas.es/encender-un-led-con-arduino/
 
+Link lector de huella Finger Print Sensor (R307)
+
+https://ethcircuits.com/arduino-fingerprint-scanner-with-code/
+
+
